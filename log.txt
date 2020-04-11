@@ -1,0 +1,92 @@
+    1  history
+    2  cd d:
+    3  history
+    4  cd abhishek
+    5  history
+    6  cd D:
+    7  cd abhishek
+    8  vi first.txt
+    9  git status
+   10  git add first.txt
+   11  git commit -m "second commit"
+   12  git status
+   13  git remote add origin https://github.com/theabhishek07/labb1/blob/master/first.txt
+   14  git remote
+   15  git push -u origin master
+   16  ls
+   17  git add .
+   18  git status
+   19  git push
+   20  clear
+   21  cd ..
+   22  cd ..
+   23  cd D:
+   24  mkdir abhi 1
+   25  cd abhi 1
+   26  clear
+   27  cd abhi
+   28  git init
+   29  ls -ah
+   30  vi second.txt
+   31  cat second.txt
+   32  git status
+   33  git add second.txt
+   34  git commit -m "second commit"
+   35  git status
+   36  git log
+   37  vi second.txt
+   38  cat second.txt
+   39  git status
+   40  git add second.txt
+   41  git commit -m "second commit"
+   42  git log
+   43  git remote add origin https://github.com/theabhishek07/lab2
+   44  git remote
+   45  git push -u origin master
+   46  git add .
+   47  git push
+   48  cd ..
+   49  mkdir Mr.Abhishek
+   50  cd Mr.Abhishek
+   51  git clone
+   52  cd ..
+   53  cd Mr.Abhishek
+   54  git clone https://github.com/csdv1003/Mr.Abhishek.git
+   55  vi mywork.txt
+   56  cd ..
+   57  mkdir lab3
+   58  cd lab3
+   59  vi new.txt
+   60  vi var.log
+   61  vi abhi.cpp
+   62  vi random.xls
+   63  git init
+   64  mkdir subfolder
+   65  ls -ah
+   66  cd subfolder
+   67  vi hello.txt
+   68  cd ..
+   69  vi gitignore
+   70  rm gitignore
+   71  ls -ah
+   72  vi .gitignore
+   73  vi .gitignore
+   74  git status
+   75  git add .
+   76  git commit -m "commiting"
+   77  git remote add origin https://github.com/theabhishek07/lab3
+   78  git remote
+   79  git push -u origin master
+   80  ls -ah
+   81  cd subfolder
+   82  ls
+   83  vi .gitignore
+   84  cd ..
+   85  git status
+   86  git add .
+   87  git push
+   88  git commit -m "second commit"
+   89  git push
+   90  git log
+   91  histoy > log.txt
+   92  history > log.txt
